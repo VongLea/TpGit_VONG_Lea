@@ -15,4 +15,5 @@ public class NewClass {
     //New comment for the TpGit
     
     // Add new comment for conflict
+    //resolv conflit
 }
